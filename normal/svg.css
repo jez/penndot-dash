@@ -1,3 +1,5 @@
+@import url("https://overpass-30e2.kxcdn.com/overpass.css");
+
 #i279-meter-bar {
   animation: i279-normal-slide 2s ease 1s forwards;
 }
