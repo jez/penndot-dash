@@ -61,10 +61,10 @@
                     <use stroke="#586E75" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
                 </g>
                 <use id="i279-meter-bar" stroke="#586E75" mask="url(#mask-4)" stroke-width="2" fill="#586E75" xlink:href="#path-3"></use>
-                <text id="30-mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="30-mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="108" y="17">30 mph</tspan>
                 </text>
-                <text id="60-mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="60-mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="349" y="17">60 mph</tspan>
                 </text>
             </g>
@@ -76,10 +76,10 @@
                     <use stroke="#586E75" mask="url(#mask-6)" stroke-width="8" xlink:href="#path-5"></use>
                 </g>
                 <use id="bridge-meter-bar" stroke="#586E75" mask="url(#mask-8)" stroke-width="2" fill="#586E75" xlink:href="#path-7"></use>
-                <text id="0-mm" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="0-mm" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="0" y="17">0 mm</tspan>
                 </text>
-                <text id="100-mm" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="100-mm" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="241" y="17">100 mm</tspan>
                 </text>
             </g>
@@ -91,10 +91,10 @@
                     <use stroke="#586E75" mask="url(#mask-10)" stroke-width="8" xlink:href="#path-9"></use>
                 </g>
                 <use id="tunnel-meter-bar" stroke="#586E75" mask="url(#mask-12)" stroke-width="2" fill="#586E75" xlink:href="#path-11"></use>
-                <text id="25-mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="25-mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="108" y="17">25 mph</tspan>
                 </text>
-                <text id="80-mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="80-mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="349" y="17">80 mph</tspan>
                 </text>
             </g>
@@ -106,10 +106,10 @@
                     <use stroke="#586E75" mask="url(#mask-14)" stroke-width="8" xlink:href="#path-13"></use>
                 </g>
                 <use id="greentree-meter-bar" stroke="#586E75" mask="url(#mask-16)" stroke-width="2" fill="#586E75" xlink:href="#path-15"></use>
-                <text id="0-cars/hr" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="0-cars/hr" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="0" y="17">0 cars/hr</tspan>
                 </text>
-                <text id="50-cars/hr" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="50-cars/hr" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="231" y="17">50 cars/hr</tspan>
                 </text>
             </g>
@@ -121,100 +121,100 @@
                     <use stroke="#586E75" mask="url(#mask-18)" stroke-width="8" xlink:href="#path-17"></use>
                 </g>
                 <use id="river-meter-bar" stroke="#586E75" mask="url(#mask-20)" stroke-width="2" fill="#586E75" xlink:href="#path-19"></use>
-                <text id="16-feet" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="16-feet" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="108" y="17">16 feet</tspan>
                 </text>
-                <text id="18-feet" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="18-feet" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="351.5" y="17">18 feet</tspan>
                 </text>
             </g>
             <g id="i279-readout" transform="translate(405.000000, 663.000000)">
                 <rect id="i279-readout-bg" fill-opacity="0.4" fill="#B58900" x="0" y="0" width="94" height="80"></rect>
-                <text id="mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="29.215332" y="69">mph</tspan>
                 </text>
-                <text id="i279-readout-text" font-family="Overpass-Reg, Overpass" font-size="36" font-weight="normal" fill="#073642">
+                <text id="i279-readout-text" font-family="Overpass-Reg, Overpass" font-size="36" font-weight="400" fill="#073642">
                     <tspan x="25.203125" y="43">35</tspan>
                 </text>
             </g>
             <g id="bridge-readout" transform="translate(405.000000, 533.000000)">
                 <rect id="bridge-readout-bg" fill-opacity="0.6" fill="#DC322F" x="0" y="0" width="94" height="80"></rect>
-                <text id="mm" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="mm" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="31.7158203" y="69">mm</tspan>
                 </text>
-                <text id="bridge-readout-text" font-family="Overpass-Reg, Overpass" font-size="36" font-weight="normal" fill="#073642">
+                <text id="bridge-readout-text" font-family="Overpass-Reg, Overpass" font-size="36" font-weight="400" fill="#073642">
                     <tspan x="16.9414062" y="43">120</tspan>
                 </text>
             </g>
             <g id="tunnel-readout" transform="translate(405.000000, 403.000000)">
                 <rect id="tunnel-readout-bg" fill="#EEE8D5" x="0" y="0" width="94" height="80"></rect>
-                <text id="mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="mph" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="29.215332" y="69">mph</tspan>
                 </text>
-                <text id="tunnel-readout-text" font-family="Overpass-Reg, Overpass" font-size="36" font-weight="normal" fill="#073642">
+                <text id="tunnel-readout-text" font-family="Overpass-Reg, Overpass" font-size="36" font-weight="400" fill="#073642">
                     <tspan x="25.1855469" y="43">55</tspan>
                 </text>
             </g>
             <g id="greentree-readout" transform="translate(405.000000, 273.000000)">
                 <rect id="greentree-readout-bg" fill-opacity="0.4" fill="#B58900" x="0" y="0" width="94" height="80"></rect>
-                <text id="cars/hr" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="cars/hr" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="16.4799805" y="69">cars/hr</tspan>
                 </text>
-                <text id="greentree-readout-text" font-family="Overpass-Reg, Overpass" font-size="36" font-weight="normal" fill="#073642">
+                <text id="greentree-readout-text" font-family="Overpass-Reg, Overpass" font-size="36" font-weight="400" fill="#073642">
                     <tspan x="24.4648438" y="43">43</tspan>
                 </text>
             </g>
             <g id="river-readout" transform="translate(405.000000, 143.000000)">
                 <rect id="river-readout-bg" fill="#EEE8D5" x="0" y="0" width="94" height="80"></rect>
-                <text id="feet" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="feet" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="30.7314453" y="69">feet</tspan>
                 </text>
-                <text id="river-readout-value" font-family="Overpass-Reg, Overpass" font-size="36" font-weight="normal" fill="#073642">
+                <text id="river-readout-value" font-family="Overpass-Reg, Overpass" font-size="36" font-weight="400" fill="#073642">
                     <tspan x="30.0634766" y="43">17</tspan>
                 </text>
             </g>
             <g id="i279-text" transform="translate(129.000000, 663.000000)">
                 <rect id="i279-text-bg" fill-opacity="0.4" fill="#B58900" x="0" y="0" width="266" height="80"></rect>
-                <text id="Average-speed" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="Average-speed" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="72.4169922" y="69">Average speed</tspan>
                 </text>
-                <text id="I-279-Traffic-Speed" font-family="Overpass-Reg, Overpass" font-size="28" font-weight="normal" fill="#073642">
+                <text id="I-279-Traffic-Speed" font-family="Overpass-Reg, Overpass" font-size="28" font-weight="400" fill="#073642">
                     <tspan x="12.3046875" y="43">I-279 Traffic Speed</tspan>
                 </text>
             </g>
             <g id="bridge-text" transform="translate(129.000000, 533.000000)">
                 <rect id="bridge-text-bg" fill-opacity="0.6" fill="#DC322F" x="0" y="0" width="266" height="80"></rect>
-                <text id="Stress-on-expansion" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="Stress-on-expansion" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="26.7841797" y="68">Stress on expansion joints</tspan>
                 </text>
-                <text id="Liberty-Bridge" font-family="Overpass-Reg, Overpass" font-size="28" font-weight="normal" fill="#073642">
+                <text id="Liberty-Bridge" font-family="Overpass-Reg, Overpass" font-size="28" font-weight="400" fill="#073642">
                     <tspan x="42.0957031" y="42">Liberty Bridge</tspan>
                 </text>
             </g>
             <g id="tunnel-text" transform="translate(129.000000, 403.000000)">
                 <rect id="tunnel-text-bg" fill="#EEE8D5" x="0" y="0" width="266" height="80"></rect>
-                <text id="Average-speed" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="Average-speed" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="72.4169922" y="68">Average speed</tspan>
                 </text>
-                <text id="Ft.-Pitt-Tunnel" font-family="Overpass-Reg, Overpass" font-size="28" font-weight="normal" fill="#073642">
+                <text id="Ft.-Pitt-Tunnel" font-family="Overpass-Reg, Overpass" font-size="28" font-weight="400" fill="#073642">
                     <tspan x="43.7841797" y="42">Ft. Pitt Tunnel</tspan>
                 </text>
             </g>
             <g id="greentree-text" transform="translate(129.000000, 273.000000)">
                 <rect id="greentree-text-bg" fill-opacity="0.4" fill="#B58900" x="0" y="0" width="266" height="80"></rect>
-                <text id="Traffic-load-in-the" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="Traffic-load-in-the" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="22.0073242" y="68">Traffic load in the past hour</tspan>
                 </text>
-                <text id="Greentree-Traffic" font-family="Overpass-Reg, Overpass" font-size="28" font-weight="normal" fill="#073642">
+                <text id="Greentree-Traffic" font-family="Overpass-Reg, Overpass" font-size="28" font-weight="400" fill="#073642">
                     <tspan x="24.4179688" y="42">Greentree Traffic</tspan>
                 </text>
             </g>
             <g id="river-text" transform="translate(129.000000, 143.000000)">
                 <rect id="river-text-bg" fill="#EEE8D5" x="0" y="0" width="266" height="80"></rect>
-                <text id="River-crest-height" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="normal" fill="#073642">
+                <text id="River-crest-height" font-family="Overpass-Reg, Overpass" font-size="18" font-weight="400" fill="#073642">
                     <tspan x="60.4638672" y="68">River crest height</tspan>
                 </text>
-                <text id="Mon-Wharf-River" font-family="Overpass-Reg, Overpass" font-size="28" font-weight="normal" fill="#073642">
+                <text id="Mon-Wharf-River" font-family="Overpass-Reg, Overpass" font-size="28" font-weight="400" fill="#073642">
                     <tspan x="28.1777344" y="42">Mon Wharf River</tspan>
                 </text>
             </g>
@@ -266,10 +266,10 @@
                     <path d="M1.16593436,7.982688 L1.17030116,7.982688 C1.17030116,7.95564 1.16593436,7.93296 1.1676139,7.905576 C1.20909846,7.312536 1.72773938,6.870024 2.31960811,6.904968 L2.32985328,6.904968 L2.33690734,6.904968 C2.64157529,6.924624 8.50080695,7.234416 11.2770811,4.641168 C12.2255154,3.755472 12.6877239,2.638944 12.6877239,1.229592 C12.6877239,0.63252 13.1704228,0.149856 13.7661544,0.149856 L13.7680019,0.149856 C14.3635656,0.149856 14.8474402,0.63336 14.8474402,1.229592 C14.8474402,2.638944 15.3072973,3.755472 16.2574112,4.641168 C18.4539093,6.693456 22.58389,6.927816 24.3616795,6.924624 C26.3534421,6.875064 29.7929653,6.507816 31.7397162,4.70148 C32.704778,3.809736 33.172529,2.670696 33.172529,1.229592 C33.172529,0.63252 33.6570753,0.149856 34.2531429,0.149856 C34.8487066,0.149856 35.3324131,0.63336 35.3324131,1.229592 C35.3324131,2.638944 35.7934459,3.755472 36.7422162,4.641168 C38.7870521,6.552 42.5065541,6.884304 44.4465869,6.921936 C46.4538012,6.860784 49.7991023,6.472032 51.7110869,4.70148 C52.674805,3.809736 53.1437317,2.670696 53.1437317,1.229592 C53.1437317,0.63252 53.6277741,0.149856 54.2236737,0.149856 C54.8199093,0.149856 55.3036158,0.63336 55.3036158,1.229592 C55.3036158,2.638944 55.7638089,3.755472 56.7122432,4.641168 C58.7708514,6.564264 62.5244479,6.889344 64.4528919,6.921936 C66.4580907,6.860784 69.8151486,6.476736 71.7311641,4.70148 C72.6962259,3.809736 73.1653205,2.670696 73.1653205,1.229592 C73.1653205,0.63252 73.6493629,0.149856 74.2442548,0.149856 C74.8435135,0.149856 75.3252046,0.63336 75.3252046,1.229592 C75.3252046,2.638944 75.7862375,3.755472 76.7346718,4.641168 C79.5717452,7.289184 85.6294981,6.909504 85.6908012,6.904968 C86.2843494,6.870024 86.8018147,7.312536 86.8426274,7.905576 C86.8844479,8.502648 86.4363475,9.01656 85.8412876,9.058896 C85.5559344,9.078552 78.7944556,9.513504 75.2649093,6.223728 C74.8766004,5.861016 74.5380058,5.46588 74.2553398,5.043864 C73.449834,6.279 72.1962278,7.258944 70.52089,7.945896 C69.0806873,8.537592 67.5113282,8.828904 66.1687066,8.96952 C66.0590328,9.016392 65.9431448,9.052344 65.8200347,9.058728 C65.7468069,9.064272 65.2300135,9.09636 64.4507085,9.08712 C64.2194363,9.091656 64.0076467,9.09636 63.8202104,9.09636 C63.2029807,9.09636 62.6510849,9.094512 62.2579054,8.947344 C59.9954015,8.692824 57.148083,8.000496 55.2439923,6.22356 C54.8521564,5.860848 54.5157452,5.465712 54.2339189,5.043696 C53.4275734,6.278832 52.1739672,7.258776 50.4996371,7.945728 C49.082444,8.524992 47.5429807,8.817816 46.2171544,8.961624 C46.102778,9.014376 45.979668,9.052176 45.8484961,9.058728 C45.7740927,9.064272 45.2426873,9.099216 44.4432278,9.08712 C44.2080927,9.091656 43.9897529,9.09636 43.7966062,9.09636 C43.1691313,9.09636 42.6138764,9.091824 42.220529,8.939952 C39.9674305,8.677536 37.1573977,7.98252 35.2706062,6.22356 C34.8792741,5.860848 34.5428629,5.465712 34.2617085,5.043696 C33.455027,6.278832 32.2015888,7.258776 30.5265869,7.945728 C28.8510811,8.633856 27.0020792,8.916432 25.5356757,9.028656 C25.4782355,9.04428 25.4218031,9.05604 25.3598282,9.057552 C25.3307722,9.06024 25.2278166,9.068136 25.0697722,9.072672 C24.8010463,9.093504 24.5030965,9.095184 24.1880154,9.095184 C24.1307432,9.095184 24.0675927,9.093504 24.0056178,9.093504 C23.9436429,9.093504 23.881668,9.095184 23.8240598,9.095184 C23.3833494,9.095184 22.9790849,9.093504 22.637971,9.040584 C21.1490618,8.937096 19.2254884,8.657712 17.4863282,7.944888 C15.8197239,7.258608 14.5684691,6.284712 13.763971,5.057808 C12.9559459,6.285552 11.7055309,7.259616 10.0379189,7.944888 C7.59839189,8.945496 4.79205405,9.095352 3.33656757,9.095352 C3.02131853,9.095352 2.72336873,9.093672 2.45548263,9.07284 C2.29743822,9.068304 2.19498649,9.060408 2.1637471,9.05772 C1.98302896,9.045792 1.81826641,8.986992 1.67248263,8.894088 C1.40879537,8.766744 1.23681081,8.548512 1.18592085,8.193696 C1.17567568,8.140776 1.16878958,8.089368 1.16627027,8.0346 C1.17030116,8.016624 1.16593436,8.003352 1.16593436,7.982688 L1.16593436,7.982688 Z M84.5283938,18.674376 C84.4682664,18.67908 78.4091699,19.060776 75.5719286,16.414104 C74.6234942,15.527064 74.1619575,14.411712 74.1619575,12.99984 C74.1619575,12.402096 73.6795946,11.92044 73.0821834,11.92044 C72.4869556,11.92044 72.0030811,12.402096 72.0030811,12.99984 C72.0030811,14.443128 71.5334826,15.579648 70.5694286,16.471896 C68.6522375,18.249 65.2951795,18.632208 63.2896448,18.694032 C61.3606969,18.660096 57.6091158,18.333672 55.5505077,16.412256 C54.6010656,15.52656 54.1405367,14.4102 54.1405367,12.99816 C54.1405367,12.402264 53.6564942,11.919768 53.0614344,11.919768 C52.464527,11.919768 51.9806525,12.402264 51.9806525,12.99816 C51.9806525,14.441448 51.5118938,15.577632 50.5480077,16.471224 C48.6361911,18.242784 45.2922336,18.628848 43.2843475,18.690336 C41.3438108,18.65556 37.6248127,18.319896 35.579473,16.412256 C34.6310386,15.525216 34.1698378,14.4102 34.1698378,12.99816 C34.1698378,12.400584 33.6852915,11.91876 33.0903996,11.91876 C32.4936602,11.91876 32.0097857,12.400584 32.0097857,12.99816 C32.0097857,14.44044 31.5420347,15.576792 30.5774768,16.470216 C28.6307259,18.274872 25.1906988,18.642456 23.1994402,18.694032 C21.4208108,18.694032 17.291166,18.464208 15.094668,16.410408 C14.1450579,15.524208 13.6852008,14.408016 13.6852008,12.996144 C13.6852008,12.399576 13.2004865,11.91792 12.6057625,11.91792 L12.6037471,11.91792 C12.0070077,11.91792 11.5251486,12.399576 11.5251486,12.996144 C11.5251486,14.408016 11.0632761,15.524208 10.1145058,16.410408 C7.33856757,19.001304 1.47916795,18.692184 1.17416409,18.673704 C1.17214865,18.673704 1.1676139,18.671856 1.1676139,18.671856 L1.15736873,18.671856 C0.565164093,18.638928 0.0468590734,19.080096 0.00537451737,19.675992 C0.00369498069,19.699848 0.00806177606,19.725552 0.00806177606,19.749408 L0,19.749408 C0,19.768728 0.00554247104,19.784352 0.00554247104,19.80468 C0.00822972973,19.856088 0.0147799228,19.907496 0.0253610039,19.96092 C0.0759150579,20.315568 0.247395753,20.534472 0.51192278,20.664168 C0.65753861,20.754216 0.822637066,20.815872 1.00335521,20.827968 C1.03308301,20.830824 1.13704633,20.836368 1.29492278,20.843592 C1.56196911,20.86392 1.86008687,20.86392 2.17583977,20.86392 C3.63166216,20.86392 6.43783205,20.714904 8.87702317,19.71312 C10.5446351,19.029864 11.7953861,18.054288 12.6027394,16.826208 C13.4074054,18.054288 14.659332,19.030704 16.3257683,19.71312 C18.0650965,20.426112 19.9886699,20.707512 21.4775792,20.808816 C21.8170135,20.862072 22.2229575,20.863752 22.663332,20.863752 L22.8452259,20.863752 L23.0274556,20.863752 C23.3427046,20.863752 23.6391429,20.863752 23.9092124,20.843424 C24.0672568,20.8362 24.1688687,20.830656 24.1991004,20.8278 C24.2602355,20.823264 24.3178436,20.810328 24.3751158,20.799408 C25.8413514,20.687184 27.6898494,20.401248 29.3656911,19.712952 C31.0400212,19.025832 32.2936274,18.046056 33.1011486,16.811424 C33.3823031,17.23596 33.7180425,17.628072 34.1097104,17.99364 C35.9968378,19.753272 38.8070386,20.44644 41.0599691,20.707344 C41.4533166,20.862072 42.0084035,20.863752 42.6362143,20.863752 C42.8280174,20.863752 43.0471969,20.862072 43.282668,20.854344 C44.0839749,20.866272 44.6140367,20.833176 44.6876004,20.82864 C44.819612,20.818392 44.94289,20.783616 45.0557548,20.731368 C46.3822529,20.588736 47.9222201,20.295576 49.3385734,19.712952 C51.0122317,19.025832 52.2656699,18.046056 53.0725193,16.811424 C53.3556892,17.23596 53.6910927,17.628072 54.0825927,17.99364 C55.9878591,19.770576 58.8340019,20.459208 61.0978494,20.714736 C61.4915328,20.862072 62.0414131,20.863752 62.6583069,20.863752 C62.8475907,20.863752 63.0583726,20.862072 63.2896448,20.854344 C64.0699575,20.866272 64.5854073,20.833176 64.6581313,20.82864 C64.7829208,20.818392 64.8989768,20.786304 65.007139,20.740608 C66.3512722,20.597976 67.9197915,20.304648 69.3601622,19.71312 C71.0344923,19.026 72.2882664,18.046224 73.0951158,16.811592 C73.3769421,17.236128 73.7141931,17.62824 74.1038456,17.993808 C77.6333919,21.28392 84.3962143,20.849136 84.6803919,20.828808 C85.2762915,20.786472 85.7247278,20.27004 85.6824035,19.677168 C85.6380637,19.081944 85.1219421,18.64212 84.5283938,18.674376 L84.5283938,18.674376 Z" id="Shape"></path>
                 </g>
             </g>
-            <text id="PennDOT-Status" font-family="Overpass-Reg, Overpass" font-size="48" font-weight="normal" fill="#073642">
+            <text id="PennDOT-Status" font-family="Overpass-Reg, Overpass" font-size="48" font-weight="400" fill="#073642">
                 <tspan x="25" y="72">PennDOT Status</tspan>
             </text>
-            <text id="12:53-p.m." font-family="Overpass-Reg, Overpass" font-size="48" font-weight="normal" fill="#073642">
+            <text id="12:53-p.m." font-family="Overpass-Reg, Overpass" font-size="48" font-weight="400" fill="#073642">
                 <tspan x="781.007812" y="72">12:53 p.m.</tspan>
             </text>
         </g>
