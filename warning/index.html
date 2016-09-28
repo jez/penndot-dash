@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.css">
+    <link rel="stylesheet" href="../common.css">
+  </head>
+  <body>
+    <!--
+<?xml-stylesheet type="text/css" href="svg.css" ?>
+      -->
+    <div class="flex-center">
+      <object id="svg-dashboard" type="image/svg+xml" data="dashboard-normal.svg"></object>
+    </div>
+    <script>
+      var dashboard = document.getElementById("svg-dashboard");
+
+      dashboard.addEventListener("load", function() {
+
+        var svgDoc = dashboard.contentDocument;
+
+        var i279_readout = svgDoc.querySelector("#i279-readout-text tspan");
+        setTimeout(function() {
+          i279_readout.textContent = '33';
+        }, 1.5 * 1000);
+      }, false);
+    </script>
+  </body>
+</html>

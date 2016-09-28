@@ -1,0 +1,62 @@
+@import url("http://overpass-30e2.kxcdn.com/overpass.css");
+
+html, body {
+  height: 100%;
+}
+html {
+  font-size: 18px;
+}
+
+body {
+  background: #fdf6e3;
+  font-family: Overpass, Helvetica, sans-serif;
+  color: #073642;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.container {
+  width: 650px;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-right: 100px;
+  box-sizing: border-box;
+}
+
+p {
+  line-height: 1.4rem;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+}
+.title {
+  font-size: 2.5rem;
+}
+.subtitle,
+.title,
+h1 {
+  font-weight: 600;
+}
+
+hr {
+  width: 50%;
+  margin-left: 0;
+}
+
+.block-link {
+  display: inline-block;
+  padding: 15px;
+  margin-right: 10px;
+  color: #268bd2;
+  font-weight: 600;
+
+}
+.block-link:hover {
+  background: #eee8d5;
+}

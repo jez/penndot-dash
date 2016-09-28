@@ -1,0 +1,27 @@
+#i279-meter-bar {
+  animation: i279-warning-slide 2s ease 1s forwards;
+}
+
+#i279-meter-bg use[fill],
+#i279-readout-bg,
+#i279-text-bg,
+#i279-icon-bg {
+  animation: i279-warning-yellow 2s linear 1s forwards;
+}
+
+@keyframes i279-warning-slide {
+  0% { transform: translateX(0px); }
+  50%, 100% { transform: translateX(-150px); }
+}
+
+@keyframes i279-warning-yellow {
+  0%, 20% {
+    fill: #EEE8D5;
+    fill-opacity: 1.0;
+  }
+  50%, 100% {
+    fill: #B58900;
+    fill-opacity: 0.4;
+  }
+}
+

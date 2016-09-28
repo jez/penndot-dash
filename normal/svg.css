@@ -1,0 +1,8 @@
+#i279-meter-bar {
+  animation: i279-normal-slide 2s ease 1s forwards;
+}
+
+@keyframes i279-normal-slide {
+  0% { transform: translateX(0px); }
+  50%, 100% { transform: translateX(-100px); }
+}
