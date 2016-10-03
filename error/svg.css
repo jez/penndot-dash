@@ -44,7 +44,10 @@
   animation: bridge-meter-slide 2.7s ease 4.4s forwards;
 }
 
-#bridge-meter-bg use[fill],
+#bridge-meter-bg use[fill] {
+  animation: bridge-error-red 2.7s linear 4.4s forwards,
+             bridge-red-pulse 0.45s linear 5.5s alternate infinite;
+}
 #bridge-readout-bg,
 #bridge-text-bg,
 #bridge-icon-bg {
@@ -68,5 +71,14 @@
   26%, 100% {
     fill: #DC322F;
     fill-opacity: 0.6;
+  }
+}
+
+@keyframes bridge-red-pulse {
+  0% {
+    fill-opacity: 0.6;
+  }
+  100% {
+    fill-opacity: 0.3;
   }
 }
