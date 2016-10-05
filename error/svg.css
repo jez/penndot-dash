@@ -6,7 +6,7 @@
 
 @keyframes greentree-meter-slide {
   0% { transform: translateX(0px); }
-  50%, 100% { transform: translateX(-50px); }
+  50%, 100% { transform: translateX(-40px); }
 }
 
 
@@ -25,7 +25,7 @@
 
 @keyframes i279-warning-slide {
   0% { transform: translateX(0px); }
-  50%, 100% { transform: translateX(-130px); }
+  50%, 100% { transform: translateX(-104px); }
 }
 
 @keyframes i279-warning-yellow {
@@ -40,26 +40,31 @@
 }
 
 
-#bridge-meter-bar {
-  animation: bridge-meter-slide 2.7s ease 4.4s forwards;
+#tunnel-meter-bar {
+  animation: tunnel-meter-slide 2.7s ease 4.4s forwards;
 }
 
-#bridge-meter-bg use[fill] {
-  animation: bridge-error-red 2.7s linear 4.4s forwards,
-             bridge-red-pulse 0.45s linear 5.5s alternate infinite;
+#tunnel-meter-bg use[fill] {
+  animation: tunnel-error-red 2.7s linear 4.4s forwards,
+             tunnel-red-pulse 0.45s linear 5.5s alternate infinite;
 }
-#bridge-readout-bg,
-#bridge-text-bg,
-#bridge-icon-bg {
-  animation: bridge-error-red 2.7s linear 4.4s forwards;
+#tunnel-readout-bg,
+#tunnel-text-bg,
+#tunnel-icon-bg {
+  animation: tunnel-error-red 2.7s linear 4.4s forwards;
 }
 
-@keyframes bridge-meter-slide {
+#tunnel-icon {
+  transform: translate(352px, 403px);
+  animation: tunnel-resize-large 0.7s ease-out 5.0s forwards;
+}
+
+@keyframes tunnel-meter-slide {
   0% { transform: translateX(0px); }
-  50%, 100% { transform: translateX(207px); }
+  50%, 100% { transform: translateX(-135px); }
 }
 
-@keyframes bridge-error-red {
+@keyframes tunnel-error-red {
   0%, 15% {
     fill: #EEE8D5;
     fill-opacity: 1.0;
@@ -74,11 +79,17 @@
   }
 }
 
-@keyframes bridge-red-pulse {
+@keyframes tunnel-red-pulse {
   0% {
     fill-opacity: 0.6;
   }
   100% {
     fill-opacity: 0.3;
+  }
+}
+
+@keyframes tunnel-resize-large {
+  100% {
+    transform: translate(323px, 378px) scale(1.625);
   }
 }
