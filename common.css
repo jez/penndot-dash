@@ -1,21 +1,4 @@
 @import url("https://overpass-30e2.kxcdn.com/overpass.css");
-/*
- * Create alias for font name exported by Sketch:
- * Overpass-Reg = Overpass-Regular
- */
-@font-face {
-    src: url("https://overpass-30e2.kxcdn.com/Overpass-Regular.eot");
-    font-family: 'Overpass-Reg';
-    /* IE9 Compat Modes */
-    src: url("https://overpass-30e2.kxcdn.com/Overpass-Regular.eot?#iefix") format("embedded-opentype"),
-         url("https://overpass-30e2.kxcdn.com/Overpass-Regular.woff") format("woff"),
-         url("https://overpass-30e2.kxcdn.com/Overpass-Regular.ttf") format("truetype"),
-         url("https://overpass-30e2.kxcdn.com/Overpass-Regular.svg#Overpass-Regular") format("svg");
-    /* Legacy iOS */
-    font-style: normal;
-    font-weight: 600;
-    text-rendering: optimizeLegibility; ; }
-
 
 html, body {
   height: 100%;
